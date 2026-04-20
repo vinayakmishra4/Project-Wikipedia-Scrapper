@@ -78,6 +78,13 @@ A Google search URL is created by appending **"Wikipedia"**
 ⚡ Extracts only paragraph text (no images/tables)
 
 ---
+
+### 🔗 Project Notebook
+
+👉 [View Project Implementation](https://github.com/vinayakmishra4/Project-Wikipedia-Scrapper/blob/main/Wikiepdia-Scrapping.ipynb)
+
+---
+
 ### 🧠 Conclusion
 
 This project is a great starting point for learning **web scraping**. It combines real-world techniques like search automation, HTML parsing, and file handling into a practical and useful application.
